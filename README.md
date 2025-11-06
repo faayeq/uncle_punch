@@ -4,7 +4,7 @@ A Unity game project mimicking the game "Annoying Uncle Punch", made using Unity
 
 ## How to Clone
 
-You can clone this repository using **SSH** or **HTTPS**:
+You can clone this repository using **SSH**:
 
 ### SSH
 ```bash
@@ -16,4 +16,4 @@ git clone git@github.com:faayeq/uncle_punch.git
 ### Steps
 1. Open Unity Hub.
 2. Click Open and select the uncle_punch folder.
-3. Open the project in Unity (make sure you have the correct Unity version installed).
+3. Open the project in Unity(with a relatively newer version of Unity required).
